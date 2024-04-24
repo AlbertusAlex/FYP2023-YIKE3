@@ -1,5 +1,7 @@
-HKUST Final Year Project 2023
+## HKUST Final Year Project 2023
+<br>
 Group: YIKE3
+<br>
 Members:
 1. ALEXANDER, Albertus
 2. HALIM, Vanessa Theodora
